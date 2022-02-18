@@ -11,14 +11,15 @@ code written in java file  is transformed into byte  code  by a  compiler before
 a compiler is a program that translate human-friendly programming language into  other programming languages that computers can execute.
 
 
-Simple java  code template:
+*Simple java  code template:*
 
-
+```
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Say something please");
     }
 }
+```
 
-// HelloWorld is the file name
-//System is a built-in Java class that contains useful tools
+> HelloWorld is the file name
+> System is a built-in Java class that contains useful tools
