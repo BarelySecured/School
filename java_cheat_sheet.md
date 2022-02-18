@@ -15,11 +15,10 @@ Simple java  code template:
 
 
 public class HelloWorld {
-// HelloWorld is the file name
     public static void main(String[] args){
         System.out.println("Say something please");
-        //System is a built-in Java class that contains useful tools
     }
 }
 
-
+// HelloWorld is the file name
+//System is a built-in Java class that contains useful tools
